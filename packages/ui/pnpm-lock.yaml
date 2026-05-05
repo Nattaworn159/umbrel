@@ -123,8 +123,8 @@ dependencies:
     specifier: 7.1.0
     version: 7.1.0
   i18next-http-backend:
-    specifier: 2.2.2
-    version: 2.2.2
+    specifier: 3.0.5
+    version: 3.0.5
   inter-ui:
     specifier: 3.19.3
     version: 3.19.3
@@ -4168,8 +4168,8 @@ packages:
       toggle-selection: 1.0.6
     dev: false
 
-  /cross-fetch@3.1.6:
-    resolution: {integrity: sha512-riRvo06crlE8HiqOwIpQhxwdOk4fOeR7FVM/wXoxchFEqMNUjvbs3bfo4OTgMEMHzppd4DxFBDbyySj8Cv781g==}
+  /cross-fetch@4.1.0:
+    resolution: {integrity: sha512-uKm5PU+MHTootlWEY+mZ4vvXoCn4fLQxT9dSc1sXVMSFkINTJVN8cAQROpwcKm8bJ/c7rgZVIBWzH5T78sNZZw==}
     dependencies:
       node-fetch: 2.7.0
     transitivePeerDependencies:
@@ -5184,10 +5184,10 @@ packages:
       '@babel/runtime': 7.23.2
     dev: false
 
-  /i18next-http-backend@2.2.2:
-    resolution: {integrity: sha512-mJu4ZqzDtBiU3O4GV9AbK5ekEqoDMdMnCl3pkdXmb5b8yoIH//u8FsmIe6C5qXb3teZu+j6VMi20tjUgzeABiw==}
+  /i18next-http-backend@3.0.5:
+    resolution: {integrity: sha512-QaWHnsxieEDcqKe+vo/RFqpiIFRi/KBqlOSPcUlvinBaISCeiTRCbtrazHAjtHtsLC66oDsROAH8frWkQzfMMQ==}
     dependencies:
-      cross-fetch: 3.1.6
+      cross-fetch: 4.1.0
     transitivePeerDependencies:
       - encoding
     dev: false
