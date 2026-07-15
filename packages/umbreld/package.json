@@ -76,7 +76,7 @@
 		"emittery": "^1.1.0",
 		"es-toolkit": "^1.33.0",
 		"execa": "^7.1.1",
-		"express": "^4.18.2",
+		"express": "^4.22.0",
 		"express-jwt": "^8.4.1",
 		"express-session": "^1.17.3",
 		"fast-fuzzy": "^1.12.0",
