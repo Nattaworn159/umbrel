@@ -40,7 +40,7 @@
 		"@types/semver": "^7.5.8",
 		"@types/tcp-port-used": "^1.0.4",
 		"@types/ws": "^8.5.10",
-		"@vitest/coverage-v8": "^2.1.2",
+		"@vitest/coverage-v8": "^4.1.10",
 		"adm-zip": "^0.5.16",
 		"get-port": "^7.0.0",
 		"got": "^14.4.6",
@@ -50,7 +50,7 @@
 		"tcp-port-used": "^1.0.2",
 		"tough-cookie": "^5.1.2",
 		"typescript": "^5.8.3",
-		"vitest": "^2.1.2",
+		"vitest": "^4.1.10",
 		"wait-port": "^1.0.4"
 	},
 	"dependencies": {
