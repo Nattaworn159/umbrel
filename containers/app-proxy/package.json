@@ -11,7 +11,7 @@
     "build": "docker buildx build --platform linux/amd64,linux/arm64 --tag getumbrel/app-proxy ."
   },
   "dependencies": {
-    "axios": "^1.15.2",
+    "axios": "^1.18.0",
     "cookie-parser": "^1.4.6",
     "dotenv": "^16.0.0",
     "ejs": "^3.1.6",
